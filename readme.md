@@ -5,6 +5,8 @@ This project aims to perform Customer Segmentation using the K-Means clustering 
 
 The project is built with Python and deployed using Streamlit, providing an interactive dashboard for visualizing data distributions, outlier detection, optimal cluster selection (Elbow method), and segment profiles.
 
+The project is deployed on streamlit: https://prachi-tyagi22-customer-segmentation--in-depth-analy-app-fpshfn.streamlit.app/
+
 🚀 Features
 
 📊 Interactive Streamlit Dashboard
